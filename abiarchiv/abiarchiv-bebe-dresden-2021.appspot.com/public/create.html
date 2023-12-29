@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" class="no-js responsivelayout" lang="de" data-zpdebug="false" data-ptr="" data-pagename="Seite nicht gefunden">
+<head>
+<title>CreateSB</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Seite nicht gefunden">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<link rel="preload" href="assets/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin="">
+<link class="zpfaviconmeta" rel="icon" type="image/svg+xml" href="media/images/favicons/favicon.svg">
+<link class="zpfaviconmeta" rel="shortcut icon" type="image/x-icon" href="media/images/favicons/favicon.ico">
+<link class="zpfaviconmeta" rel="icon" type="image/png" sizes="32x32" href="media/images/favicons/favicon-32x32.png">
+<link class="zpfaviconmeta" rel="icon" type="image/png" sizes="16x16" href="media/images/favicons/favicon-16x16.png">
+<link class="zpfaviconmeta" rel="apple-touch-icon" sizes="180x180" href="media/images/favicons/apple-touch-icon.png">
+<link class="zpfaviconmeta" rel="manifest" href="site.webmanifest">
+<meta class="zpfaviconmeta" name="msapplication-config" content="browserconfig.xml">
+<meta class="zpfaviconmeta" name="msapplication-TileColor" content="#ffffff">
+<meta class="zpfaviconmeta" name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="assets/bundle.css?v=637854083792202566">
+<script defer src="/__/firebase/8.6.5/firebase-app.js"></script>
+<script defer src="/__/firebase/8.6.5/firebase-auth.js"></script>
+<script defer src="/__/firebase/8.6.5/firebase-database.js"></script>
+<script defer src="/__/firebase/8.6.5/firebase-storage.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+<script defer src="/__/firebase/init.js"></script>
+<script type="text/javascript" src="./assets/js/dbloader.js"></script>
+
+
+<style>
+.form__field {
+  font-family: inherit;
+  width: 100%;
+  border: 0;
+  border-bottom: 2px solid #9b9b9b;
+  outline: 0;
+  font-size: 1.3rem;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+body,
+#line,
+#searchbutton,
+#framebox,
+#navbar,
+.notouch ul.mainmenu>li>a:hover,
+ul.mainmenu>li.active:not(.open)>a,
+#contentbox a.button,
+input.button,
+.news h2,
+#afterfooter,
+#afterfooter .footerline {
+    background-image: none !important;
+}
+h1 {
+    text-transform: uppercase;
+}
+#navbar,
+#framebox,
+.newsbox h2,
+.newstext {
+    border-radius: 0;
+    box-shadow: none;
+}
+#xmenu a,
+#xmenuright a {
+    font-weight: normal;
+    text-transform: none;
+}
+#searchfield,
+#searchbutton {
+    font-weight: normal;
+    text-transform: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+ul.mainmenu li a {
+    font-weight: normal;
+}
+a#mobilenavtoggle {
+    font-size: 1.3em;
+    border-radius: 0;
+    font-weight: normal;
+    text-transform: none;
+}
+.flex-caption h1, .flex-caption h2, .flex-caption h3 {
+    font-weight: normal;
+}
+#webbox, #webboxplus {
+    padding-bottom: 60px;
+}
+#contentbox a.button,
+a.button,
+#contentbox a.button span,
+a.button span,
+input.button {
+    border-radius: 0;
+    box-shadow: none;
+}
+.footerline div.zpRow div.zpColumn div.zpColumnItem {
+    padding: 0 30px 30px;
+}
+#footerinfo {
+    padding: 0 30px;
+}
+</style>
+<script src="assets/bundle.js?v=637854083792222565"></script>
+<script src="assets/js/webfont/1.6.28/webfont.js"></script>
+<noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700"></noscript>
+</head>
+<body>
+<textarea cols="100" rows="2" type="input" class="form__field" placeholder="Extract" id="-1" ></textarea>
+<input type="button" class="button" value="Extract" onClick="extract()" />
+<input type="input" class="form__field" placeholder="Name" id="0" />
+<input type="input" class="form__field" placeholder="Spitzname" id="1" />
+<input type="input" class="form__field" placeholder="Ich in 3 Worten" id="2" />
+<input type="input" class="form__field" placeholder="Schulzeit in einem Song" id="3" />
+<input type="input" class="form__field" placeholder="Schulzeit in einem Song (Url)" id="4" />
+<input type="input" class="form__field" placeholder="Motto für meine Schulzeit" id="5" />
+<input type="input" class="form__field" placeholder="Ratschläge an mein 5. Klässler-Ich" id="6" />
+<input type="input" class="form__field" placeholder="Ich bin Experte/in für" id="7" />
+<input type="input" class="form__field" placeholder="Lieblingsbeschäftigung im Unterricht" id="8" />
+<input type="input" class="form__field" placeholder="Diese Dinge haben mich durchs Abi gebracht" id="9" />
+<input type="input" class="form__field" placeholder="Wenn ich Lehrer wäre" id="10" />
+<input type="input" class="form__field" placeholder="Schlechteste Entscheidung in der Schulzeit" id="11" />
+<textarea cols="100" id="12" class="form__field" rows="20" placeholder="Kommentare"></textarea>
+<input type="input" class="form__field" placeholder="Leistungskurse" id="13" />
+<input type="input" class="form__field" placeholder="Geburtstag" id="14" />
+<input type="input" class="form__field" placeholder="Eigene Worte" id="15" />
+<input type="input" class="form__field" placeholder="BildURL" id="16" />
+<input type="button" class="button" value="generate" onClick="generate()"/>
+<a href="" id="a">click here to download your file</a>
+<p id="outp"></p>
+<script>
+function generate() {
+	var out = "";
+	for (var i = 0; i<=16;i++) {
+		out += document.getElementById(i).value.replace("\n","<br>");
+		if (i!=16)
+			out += "<split>";
+	}
+	console.log(out);
+	var filename = document.getElementById("0").value.replace(" ", "_").replace("ä","ae").replace("ö","oe").replace("ü","ue").replace("Ä","ae").replace("Ö","oe").replace("Ü","ue").replace("ß","ss")+".txt";
+	var a = document.getElementById("a");
+    var file = new Blob([out], {type: "text/plain"});
+    a.href = URL.createObjectURL(file);
+    a.download = filename;
+}
+
+function extract() {
+	var out = document.getElementById("-1").value;
+	if (out.includes("<split>")) {
+		var data = out.split("<split>");
+		for (var i = 0; i<=16;i++) {
+			try{
+				document.getElementById(i).value = data[i].replace("undefined","");
+			}catch{}
+		}
+	} else {
+		try{
+			var from = "Spitzname:"
+			var to = "Ich in drei Worten:"
+			document.getElementById("1").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Ich in drei Worten:"
+			var to = "Schulzeit in einem Song:"
+			document.getElementById("2").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Schulzeit in einem Song:"
+			var to = "Motto für meine Schulzeit:"
+			document.getElementById("3").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Motto für meine Schulzeit:"
+			var to = "Ratschläge an mein 5. Klässler-Ich:"
+			document.getElementById("5").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Ratschläge an mein 5. Klässler-Ich:"
+			var to = "Ich bin Experte/in für:"
+			document.getElementById("6").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Ich bin Experte/in für:"
+			var to = "Lieblingsbeschäftigung im Unterricht:"
+			document.getElementById("7").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Lieblingsbeschäftigung im Unterricht:"
+			var to = "Diese Dinge haben mich durchs Abi gebracht:"
+			document.getElementById("8").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Diese Dinge haben mich durchs Abi gebracht:"
+			var to = "Wenn ich Lehrer wäre:"
+			document.getElementById("9").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Wenn ich Lehrer wäre:"
+			var to = "Schlechteste Entscheidung in der Schulzeit:"
+			document.getElementById("10").value = out.substring(out.indexOf(from), out.indexOf(to)).replace(from,"").replace(to,"");
+		}catch{}
+		try{
+			var from = "Schlechteste Entscheidung in der Schulzeit:"
+			document.getElementById("11").value = out.split(from)[1].replace(from,"");
+		}catch{}
+	}
+}
+</script>
+</body>
+</html>

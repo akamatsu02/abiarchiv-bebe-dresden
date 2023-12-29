@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" class="no-js responsivelayout" lang="de" data-zpdebug="false" data-ptr="" data-pagename="Login">
+<head>
+<title>Login</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="preload" href="https://abiarchiv-bebe-dresden.de/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin="">
+<link class="zpfaviconmeta" rel="manifest" href="https://abiarchiv-bebe-dresden.de/site.webmanifest">
+<meta class="zpfaviconmeta" name="msapplication-config" content="https://abiarchiv-bebe-dresden.de/browserconfig.xml">
+<meta class="zpfaviconmeta" name="msapplication-TileColor" content="#ffffff">
+<meta class="zpfaviconmeta" name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://abiarchiv-bebe-dresden.de/assets/bundle.css?v=637854083792202566">
+<script defer src="../../../firebase/8.6.5/firebase-app.js"></script>
+<script defer src="../../../firebase/8.6.5/firebase-auth.js"></script>
+<script defer src="../../../firebase/8.6.5/firebase-database.js"></script>
+<script defer src="../../../firebase/8.6.5/firebase-storage.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+<script defer src="../../../firebase/init.js"></script>
+
+<style>
+#a1440.zpwButton , #a1440.zpwButton p{text-align: left;}
+
+</style><style>
+#a1439.zpwButton , #a1439.zpwButton p{text-align: left;}
+
+</style>
+<style>
+.form__field {
+  font-family: inherit;
+  width: 100%;
+  border: 0;
+  border-bottom: 2px solid #9b9b9b;
+  outline: 0;
+  font-size: 1.3rem;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+body,
+#line,
+#searchbutton,
+#framebox,
+#navbar,
+.notouch ul.mainmenu>li>a:hover,
+ul.mainmenu>li.active:not(.open)>a,
+#contentbox a.button,
+input.button,
+.news h2,
+#afterfooter,
+#afterfooter .footerline {
+    background-image: none !important;
+}
+h1 {
+    text-transform: uppercase;
+}
+#navbar,
+#framebox,
+.newsbox h2,
+.newstext {
+    border-radius: 0;
+    box-shadow: none;
+}
+#xmenu a,
+#xmenuright a {
+    font-weight: normal;
+    text-transform: none;
+}
+#searchfield,
+#searchbutton {
+    font-weight: normal;
+    text-transform: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+ul.mainmenu li a {
+    font-weight: normal;
+}
+a#mobilenavtoggle {
+    font-size: 1.3em;
+    border-radius: 0;
+    font-weight: normal;
+    text-transform: none;
+}
+.flex-caption h1, .flex-caption h2, .flex-caption h3 {
+    font-weight: normal;
+}
+#webbox, #webboxplus {
+    padding-bottom: 60px;
+}
+#contentbox a.button,
+a.button,
+#contentbox a.button span,
+a.button span,
+input.button {
+    border-radius: 0;
+    box-shadow: none;
+}
+.footerline div.zpRow div.zpColumn div.zpColumnItem {
+    padding: 0 30px 30px;
+}
+#footerinfo {
+    padding: 0 30px;
+}
+.nodisplay {
+  display: none;
+}
+</style>
+<script src="https://abiarchiv-bebe-dresden.de/assets/bundle.js?v=637854083792222565"></script>
+<script src="https://abiarchiv-bebe-dresden.de/assets/js/webfont/1.6.28/webfont.js"></script>
+<noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700"></noscript>
+</head>
+<body id="travel-responsive">
+<div id="bodybox">
+<div id="line">
+<div id="wrapper">
+<div id="framebox">
+<div id="webbox">
+<div id="contentbox">
+<div id="content">
+<div class="zparea zpgrid" data-numcolumns="" data-areaname="Standard" data-pageid="497">
+<div id="container_114" class="zpContainer first last " data-zpeleel="container" data-zpleid="114">
+<div class="zpRow standard " data-row-id="103">
+<div class="zpColumn odd zpColumnWidth1 c12 first last" style="" data-column-id="105">
+<div class="zpColumnItem">
+<div id="a1399" data-article-id="1399" data-zpleid="1399" class="articlearea zpwText">
+<h1 data-zpfieldname="headline">Login / Registrierung</h1>
+<form class="" id="login">
+<input class="button" type="button" value="zu Registrieren wechseln" onclick="loginChangeForm()">
+<pre></pre>
+<input type="email" class="form__field" placeholder="E-Mail-Adresse" id="loginEmail" required />
+<pre></pre>
+<input type="password" class="form__field" placeholder="Passwort" id="loginPassword" required />
+<input class="button" type="button" value="Passwort zur&uuml;cksetzen" onclick="resetpw()">
+<pre></pre>
+<input class="button" type="button" value="Anmelden" onclick="sendLogin()">
+</form>
+<form class="nodisplay" id="register">
+<input class="button" type="button" value="zu Anmelden wechseln" onclick="loginChangeForm()">
+<input type="input" class="form__field" placeholder="Name" id="registerFN" required />
+<pre></pre>
+<input type="email" class="form__field" placeholder="E-Mail-Adresse" id="registerEmail" required />
+<pre></pre>
+<input type="password" class="form__field" placeholder="Passwort (mind. 6 Stellen)" id="registerPassword" required />
+<pre></pre>
+<input type="password" class="form__field" placeholder="Passwort wiederholen" id="registerPassword_2" required />
+<input class="button" type="button" value="Registrieren" onclick="sendRegistration()">
+</form>
+</div>
+</div>
+<div class="zpColumnItem">
+<div id="a1440" data-article-id="1440" data-zpleid="1440" class="articlearea zpwButton">
+
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="134">
+<div class="zpColumn odd zpColumnWidth1 c12 first last" style="" data-column-id="150">
+<div class="zpColumnItem">
+<div id="a1439" data-article-id="1439" data-zpleid="1439" class="articlearea zpwButton">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearx"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="bottomfooter">
+<div class="wrapper">
+<div id="footerinfo"> &copy; 2022 App  </div>
+</div>
+</div>
+</div>
+<script>
+function loginChangeForm() {
+    document.getElementById("login").classList.toggle("nodisplay");
+    document.getElementById("register").classList.toggle("nodisplay");
+}
+</script> 
+<script type="text/javascript" src="./loader.js"></script>
+ <script type="text/javascript" src="https://abiarchiv-bebe-dresden.de/assets/js/flexbox.js"></script>
+ </body>
+</html>

@@ -1,0 +1,430 @@
+<div id="floatcontentleft">
+<div class="zparea zpgrid" data-numcolumns="" data-areaname="Standard" data-pageid="500">
+<div id="container_120" class="zpContainer first last " data-zpeleel="container" data-zpleid="120">
+<div class="zpRow standard " data-row-id="109">
+<div class="zpColumn odd zpColumnWidth1 c12 first last" style="" data-column-id="111">
+<div class="zpColumnItem">
+<div id="a1405" data-article-id="1405" data-zpleid="1405" class="articlearea zpwText">
+<h1 data-zpfieldname="headline">Lehrerzitate</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="200">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="233">
+<div class="zpColumnItem">
+<div id="a1557" data-article-id="1557" data-zpleid="1557" class="articlearea zpwText">
+<p style="text-align: center;"> „In Biologie funktioniert alles mit 6.“ </p><p style="text-align: center;">Fr. Wetzel <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="234">
+<div class="zpColumnItem">
+<div id="a1558" data-article-id="1558" data-zpleid="1558" class="articlearea zpwText">
+<p style="text-align: center;"> „Ich hab Einfälle wie ein altes Haus.“</p><p style="text-align: center;">Hr. Kunze <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="201">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="235">
+<div class="zpColumnItem">
+<div id="a1559" data-article-id="1559" data-zpleid="1559" class="articlearea zpwText">
+<p style="text-align: center;"> „Ich bin eher so im Brückentagsmodus, Motto heute: Bloß kein Stress.“</p><p style="text-align: center;">Fr. Strohbach <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="236">
+<div class="zpColumnItem">
+<div id="a1560" data-article-id="1560" data-zpleid="1560" class="articlearea zpwText">
+<p style="text-align: center;"> „Ich bin immer großzügig mit den Chemikalien, aber schreibt das bitte nicht in die Abizeitung.“</p><p style="text-align: center;">Hr. Blechschmidt <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="202">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="237">
+<div class="zpColumnItem">
+<div id="a1561" data-article-id="1561" data-zpleid="1561" class="articlearea zpwText">
+<p style="text-align: center;"> „Wenn ich aber von der Arbeit komme, dann verspür ich ein Gefühl der absoluten Freude.“</p><p style="text-align: center;">Hr. Hennig <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="238">
+<div class="zpColumnItem">
+<div id="a1562" data-article-id="1562" data-zpleid="1562" class="articlearea zpwText">
+<p style="text-align: center;"> „Die 5. dieses Jahr sind echt anstrengend. Eine Ansammlung von anstrengenden kleinen Menschen“</p><p style="text-align: center;">Frau Herrmann <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="203">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="239">
+<div class="zpColumnItem">
+<div id="a1563" data-article-id="1563" data-zpleid="1563" class="articlearea zpwText">
+<p style="text-align: center;"> „ICH KANN‘S NICHT.“</p><p style="text-align: center;">FR. WIEDENBECK <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="240">
+<div class="zpColumnItem">
+<div id="a1564" data-article-id="1564" data-zpleid="1564" class="articlearea zpwText">
+<p style="text-align: center;"> „Wir haben heute nur Powerpoints für Arme.“ (zum Polylux)</p><p style="text-align: center;">Fr. Wosch <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="204">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="241">
+<div class="zpColumnItem">
+<div id="a1565" data-article-id="1565" data-zpleid="1565" class="articlearea zpwText">
+<p style="text-align: center;"> „Ihr seid heute so kognitiv Inkompetent!“</p><p style="text-align: center;">Fr. Eisbein <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="242">
+<div class="zpColumnItem">
+<div id="a1566" data-article-id="1566" data-zpleid="1566" class="articlearea zpwText">
+<p style="text-align: center;"> „Schwachfug.“</p><p style="text-align: center;">Fr. Strohbach <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="205">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="243">
+<div class="zpColumnItem">
+<div id="a1567" data-article-id="1567" data-zpleid="1567" class="articlearea zpwText">
+<p style="text-align: center;"> Frau Klemm fragt (im Bio LK), ob jemand Chemie oder Physik LK ist. (mehrmals vorgekommen) <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="244">
+<div class="zpColumnItem">
+<div id="a1568" data-article-id="1568" data-zpleid="1568" class="articlearea zpwText">
+<p style="text-align: center;"> „Wir lassen Platz zur Lücke.“</p><p style="text-align: center;">Hr. Kunze <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="206">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="245">
+<div class="zpColumnItem">
+<div id="a1569" data-article-id="1569" data-zpleid="1569" class="articlearea zpwText">
+<p style="text-align: center;"> „Die Fehler müssen bloß richtig sein.“</p><p style="text-align: center;">Fr. Höllige <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="246">
+<div class="zpColumnItem">
+<div id="a1570" data-article-id="1570" data-zpleid="1570" class="articlearea zpwText">
+<p style="text-align: center;"> „Ich besorg‘s mir privat.“<br><em><span style="font-size: 11px;">Frau John, als die Schule ihr keinen Beamer geben wollte</span></em>
+<br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="207">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="247">
+<div class="zpColumnItem">
+<div id="a1571" data-article-id="1571" data-zpleid="1571" class="articlearea zpwText">
+<p style="text-align: center;"> „In der Kürze liegt die Würze.“</p><p style="text-align: center;">Hr. Hennig <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="248">
+<div class="zpColumnItem">
+<div id="a1572" data-article-id="1572" data-zpleid="1572" class="articlearea zpwText">
+<p style="text-align: center;"> „Eigentlich bräucht ich nen Schnap.“ <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+</p><p style="text-align: center;">Fr. Höllige <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="208">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="249">
+<div class="zpColumnItem">
+<div id="a1573" data-article-id="1573" data-zpleid="1573" class="articlearea zpwText">
+<p style="text-align: center;"> „Das schmeckt ja schon gut, wenn man bloß daran leckt.“ (zu Kuchen)</p><p style="text-align: center;">Hr. Blechschmidt <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="250">
+<div class="zpColumnItem">
+<div id="a1574" data-article-id="1574" data-zpleid="1574" class="articlearea zpwText">
+<p style="text-align: center;"> „TOM UND ALAA SINGEN VOR UND FRIEDRICH TANZT DAZU.“</p><p style="text-align: center;">HR. FÜRSTENAU <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="209">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="251">
+<div class="zpColumnItem">
+<div id="a1575" data-article-id="1575" data-zpleid="1575" class="articlearea zpwText">
+<p style="text-align: center;"> „Da machen wir es einfach von vorne und hinten.“</p><p style="text-align: center;">Fr Neuwald <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="252">
+<div class="zpColumnItem">
+<div id="a1576" data-article-id="1576" data-zpleid="1576" class="articlearea zpwText">
+<p style="text-align: center;"> „Schreibt das jetzt ab, ihr kennt doch mein Motto: Arbeit macht frei.“</p><p style="text-align: center;">Fr. Hvolka <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="210">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="253">
+<div class="zpColumnItem">
+<div id="a1577" data-article-id="1577" data-zpleid="1577" class="articlearea zpwText">
+<p style="text-align: center;"> Hr Fiedler:<br>„Was bringt es denn ein v(s)-Diagramm zu zeichnen?“ - Tom: „Es ist überhaupt fraglich, was das hier alles bringt.“ <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="254">
+<div class="zpColumnItem">
+<div id="a1578" data-article-id="1578" data-zpleid="1578" class="articlearea zpwText">
+<p style="text-align: center;"> „Komm, schluck mal ein bisschen schneller!“</p><p style="text-align: center;">Hr. Lindner <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="211">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="255">
+<div class="zpColumnItem">
+<div id="a1579" data-article-id="1579" data-zpleid="1579" class="articlearea zpwText">
+<p style="text-align: center;"> „Du musst bestimmt viel sparen, du bist ja Schülerin.“</p><p style="text-align: center;">Fr. Herrmann <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="256">
+<div class="zpColumnItem">
+<div id="a1580" data-article-id="1580" data-zpleid="1580" class="articlearea zpwText">
+<p style="text-align: center;"> „Drogen versprechen Glück, für das man nichts leisten muss.“ (zitiert Nietzsche)</p><p style="text-align: center;">Hr. Devantier <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="212">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="257">
+<div class="zpColumnItem">
+<div id="a1581" data-article-id="1581" data-zpleid="1581" class="articlearea zpwText">
+<p style="text-align: center;"> „JETZT DROHT MASSIVST UNWILLEN!“</p><p style="text-align: center;">HR. NIMBACH <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="258">
+<div class="zpColumnItem">
+<div id="a1582" data-article-id="1582" data-zpleid="1582" class="articlearea zpwText">
+<p style="text-align: center;"> „Trinken bis zum Verlust der Muttersprache.“</p><p style="text-align: center;">Hr. Thiele <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="213">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="259">
+<div class="zpColumnItem">
+<div id="a1583" data-article-id="1583" data-zpleid="1583" class="articlearea zpwText">
+<p style="text-align: center;"> „Je öfter man das gemacht hat, desto mehr Spaß macht es.“</p><p style="text-align: center;">Hr. Blechschmidt <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="260">
+<div class="zpColumnItem">
+<div id="a1584" data-article-id="1584" data-zpleid="1584" class="articlearea zpwText">
+<p style="text-align: center;"> Fr. Wiedenbeck:<br>„Wenn die Sonne hier im Zenit steht habt ihr was genommen.“<br>Anastasia: „Kennt man.“ <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="214">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="261">
+<div class="zpColumnItem">
+<div id="a1585" data-article-id="1585" data-zpleid="1585" class="articlearea zpwText">
+<p style="text-align: center;"> „Ey aus die Maus jetzt!“ und „Ruckizucki geht das.“</p><p style="text-align: center;">Fr.Paschke <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="262">
+<div class="zpColumnItem">
+<div id="a1586" data-article-id="1586" data-zpleid="1586" class="articlearea zpwText">
+<p style="text-align: center;"> „Du warst bestimmt auch schon auf einer Couch, als was auch immer.“ (zu Anastasia)</p><p style="text-align: center;">Hr. Thiele <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="215">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="263">
+<div class="zpColumnItem">
+<div id="a1587" data-article-id="1587" data-zpleid="1587" class="articlearea zpwText">
+<p style="text-align: center;"> „Ihr seid nichts Gutes mehr gewöhnt.“</p><p style="text-align: center;">Hr. Blechschmidt <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="264">
+<div class="zpColumnItem">
+<div id="a1588" data-article-id="1588" data-zpleid="1588" class="articlearea zpwText">
+<p style="text-align: center;"> „Ohne Brain geht’s einfach nicht.“</p><p style="text-align: center;">Hr. Devantier <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="216">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="265">
+<div class="zpColumnItem">
+<div id="a1589" data-article-id="1589" data-zpleid="1589" class="articlearea zpwText">
+<p style="text-align: center;"> „Der Glaube allein hilft uns nicht. Wissen ist Macht.“</p><p style="text-align: center;">Fr. Wetzel <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="266">
+<div class="zpColumnItem">
+<div id="a1590" data-article-id="1590" data-zpleid="1590" class="articlearea zpwText">
+<p style="text-align: center;"> „Ein König war im Prinzip auch nur ein Diktator, bloß ein bisschen besser angezogen.“</p><p style="text-align: center;">Hr. Devantier <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="217">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="267">
+<div class="zpColumnItem">
+<div id="a1591" data-article-id="1591" data-zpleid="1591" class="articlearea zpwText">
+<p style="text-align: center;"> „Also helfe ich sie.“</p><p style="text-align: center;">Hr. Thiele zu Alina <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="268">
+<div class="zpColumnItem">
+<div id="a1592" data-article-id="1592" data-zpleid="1592" class="articlearea zpwText">
+<p style="text-align: center;"> „STELLT EUCH VOR, IHR SEID DAS BAKTERIUM…“</p><p style="text-align: center;">FR. KLEMM <br style=" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+<br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="218">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="269">
+<div class="zpColumnItem">
+<div id="a1593" data-article-id="1593" data-zpleid="1593" class="articlearea zpwText">
+<p style="text-align: center;">„Mein Gehirn ist wie ein Rächen, nur der Mist bleibt hängen.“</p><p style="text-align: center;">Hr. Kunze</p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="270">
+<div class="zpColumnItem">
+<div id="a1594" data-article-id="1594" data-zpleid="1594" class="articlearea zpwText">
+<p style="text-align: center;">„Der gelbe Fluss: nicht wegen der Haut, sondern wegen des Löss in China.“</p><p style="text-align: center;">Fr. Wiedenbeck</p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="219">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="271">
+<div class="zpColumnItem">
+<div id="a1595" data-article-id="1595" data-zpleid="1595" class="articlearea zpwText">
+<p style="text-align: center;">„LETZTES JAHR WURDE EIN PLANET RAUSGEHAUEN, AH NEE ICH LESE GERADE 2007.“</p><p style="text-align: center;">FR. WIEDENBECK</p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="272">
+<div class="zpColumnItem">
+<div id="a1596" data-article-id="1596" data-zpleid="1596" class="articlearea zpwText">
+<p style="text-align: center;">„Je älter ihr werdet, desto eher bekommt ihr mit und akzeptiert, dass sich alles ändert.“</p><p style="text-align: center;">Fr. Klemm</p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="220">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="273">
+<div class="zpColumnItem">
+<div id="a1597" data-article-id="1597" data-zpleid="1597" class="articlearea zpwText">
+<p style="text-align: center;">„Es hat niemand unter fünf Punkten, aber auch niemand über 15.“</p><p style="text-align: center;">Hr. Blechschmidt</p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="274">
+<div class="zpColumnItem">
+<div id="a1598" data-article-id="1598" data-zpleid="1598" class="articlearea zpwText">
+<p style="text-align: center;">„Das ist flüssiger als Wasser, also überflüssig.“</p><p style="text-align: center;">Hr. Kunze</p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="221">
+<div class="zpColumn odd zpColumnWidth2 c6 first" style="" data-column-id="275">
+<div class="zpColumnItem">
+<div id="a1599" data-article-id="1599" data-zpleid="1599" class="articlearea zpwText">
+<p style="text-align: center;">„HAB ICH NICHT MITBEKOMMEN, WAS WAR DA? AH GESTERN? DA WAR ICH TOT.“</p><p style="text-align: center;">FR. WIEDENBECK</p>
+</div>
+</div>
+</div>
+<div class="zpColumn even zpColumnWidth2 c6 last" style="" data-column-id="276">
+<div class="zpColumnItem">
+<div id="a1600" data-article-id="1600" data-zpleid="1600" class="articlearea zpwText">
+<p style="text-align: center;">„Als Kind musste ich immer rot tragen, weil blau hatte mein Bruder.“</p><p style="text-align: center;">Hr. Kunze</p>
+</div>
+</div>
+</div>
+</div>
+<div class="zpRow standard " data-row-id="222">
+<div class="zpColumn odd zpColumnWidth1 c12 first last" style="" data-column-id="277">
+<div class="zpColumnItem">
+<div id="a1601" data-article-id="1601" data-zpleid="1601" class="articlearea zpwText">
+<p style="text-align: center;">„Also weg mit dem Dreck.“ (eine Definition erschien unlogisch)</p><p style="text-align: center;">Hr. Blechschmidt</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearx"></div>
+</div>
+<div id="sidebarright">
+<ul class="submenu">
+<li><a href="our-ib-experience.html">Our IB Experience</a></li>
+<li><span>›</span><a class="subnav1active" href="lehrerzitate.html">Lehrerzitate</a>
+</li>
+<li><a href="mottowoche.html">Mottowoche</a></li>
+<li><a href="wir-haben-die-lehrer-gefragt.html">Wir haben die Lehrer gefragt</a></li>
+<li><a href="danke.html">Danke</a></li>
+</ul>
+<div>
+<div class="zparea " data-numcolumns="12" data-areaname="News" data-pageid="500">
+</div>
+</div>
+</div>
+<div class="clearx"></div>

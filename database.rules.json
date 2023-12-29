@@ -1,0 +1,36 @@
+{
+  "rules": {
+    "steckbriefe_list":{
+      ".read":"auth!=null&&root.child('authorized').val().contains(auth.uid)",
+      ".write":false
+    },
+    "authorized":{
+      ".read":"root.child('ops').val().contains(auth.uid)",
+      ".write":"root.child('ops').val().contains(auth.uid)"
+    },
+    "kommentare":{
+      ".read":true,
+      ".write":"auth!=null&&root.child('authorized').val().contains(auth.uid)"
+    },
+    "ops" :{
+      ".read": false,
+      ".write": false
+    },
+    "users": {
+      ".read" : "root.child('ops').val().contains(auth.uid)",
+      ".write": "root.child('ops').val().contains(auth.uid)",
+      "$key" : {
+        ".read" : "auth.uid==$key",
+        ".write": "auth.uid==$key||!data.exists()"
+      }
+    },
+    "tickets":{
+      ".read":true,
+      ".write":"auth!=null"
+    },
+    "users2": {
+      ".read" : "auth!=null",
+      ".write": true
+    } 
+  }
+}

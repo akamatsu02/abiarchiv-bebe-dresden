@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" class="no-js responsivelayout" lang="de" data-zpdebug="false" data-ptr="" data-pagename="Lehrerzitate">
+<head>
+<title>Lehrerzitate</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Lehrerzitate">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<link rel="preload" href="assets/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin="">
+<link class="zpfaviconmeta" rel="icon" type="image/svg+xml" href="media/images/favicons/favicon.svg">
+<link class="zpfaviconmeta" rel="shortcut icon" type="image/x-icon" href="media/images/favicons/favicon.ico">
+<link class="zpfaviconmeta" rel="icon" type="image/png" sizes="32x32" href="media/images/favicons/favicon-32x32.png">
+<link class="zpfaviconmeta" rel="icon" type="image/png" sizes="16x16" href="media/images/favicons/favicon-16x16.png">
+<link class="zpfaviconmeta" rel="apple-touch-icon" sizes="180x180" href="media/images/favicons/apple-touch-icon.png">
+<link class="zpfaviconmeta" rel="manifest" href="site.webmanifest">
+<meta class="zpfaviconmeta" name="msapplication-config" content="browserconfig.xml">
+<meta class="zpfaviconmeta" name="msapplication-TileColor" content="#ffffff">
+<meta class="zpfaviconmeta" name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="assets/bundle.css?v=637854083792202566">
+<script defer src="/__/firebase/8.6.5/firebase-app.js"></script>
+<script defer src="/__/firebase/8.6.5/firebase-auth.js"></script>
+<script defer src="/__/firebase/8.6.5/firebase-database.js"></script>
+<script defer src="/__/firebase/8.6.5/firebase-storage.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+<script defer src="/__/firebase/init.js"></script>
+<script type="text/javascript" src="./assets/js/dbloader.js"></script>
+
+
+<style>
+
+body,
+#line,
+#searchbutton,
+#framebox,
+#navbar,
+.notouch ul.mainmenu>li>a:hover,
+ul.mainmenu>li.active:not(.open)>a,
+#contentbox a.button,
+input.button,
+.news h2,
+#afterfooter,
+#afterfooter .footerline {
+    background-image: none !important;
+}
+h1 {
+    text-transform: uppercase;
+}
+#navbar,
+#framebox,
+.newsbox h2,
+.newstext {
+    border-radius: 0;
+    box-shadow: none;
+}
+#xmenu a,
+#xmenuright a {
+    font-weight: normal;
+    text-transform: none;
+}
+#searchfield,
+#searchbutton {
+    font-weight: normal;
+    text-transform: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+ul.mainmenu li a {
+    font-weight: normal;
+}
+a#mobilenavtoggle {
+    font-size: 1.3em;
+    border-radius: 0;
+    font-weight: normal;
+    text-transform: none;
+}
+.flex-caption h1, .flex-caption h2, .flex-caption h3 {
+    font-weight: normal;
+}
+#webbox, #webboxplus {
+    padding-bottom: 60px;
+}
+#contentbox a.button,
+a.button,
+#contentbox a.button span,
+a.button span,
+input.button {
+    border-radius: 0;
+    box-shadow: none;
+}
+.footerline div.zpRow div.zpColumn div.zpColumnItem {
+    padding: 0 30px 30px;
+}
+#footerinfo {
+    padding: 0 30px;
+}
+</style>
+<script>
+        document.documentElement.className = document.documentElement.className.replace(/no-js/g, 'js');
+    </script>
+<script src="assets/bundle.js?v=637854083792222565"></script>
+<script>
+        setTimeout(function() {
+            if ( ! ("WebFont" in window)) {
+                document.getElementsByTagName("html")[0].className += " wf-fail";
+            }
+        }, 1000);
+    
+        WebFontConfig = {
+            google: { families: [ 'Roboto+Condensed:400,700' ] }
+        };
+    </script>
+<script src="assets/js/webfont/1.6.28/webfont.js"></script>
+<noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700"></noscript>
+</head>
+<body id="travel-responsive">
+<a id="top"></a>
+<div id="bodybox">
+<div id="line">
+<div id="wrapper">
+<div id="topline">
+<a href="#" id="mobilenavtoggle" aria-label="Menü ein-/ausblenden">Menü</a>
+<div id="webdescription">
+<div id="logo">
+<a href="index.html"><img src="assets/logo.svg" width="70" height="70" alt="Logo Abiarchiv"></a>
+</div>
+<div id="webtext">
+<div id="webname"><a href="index.html">Abiarchiv</a></div>
+</div>
+<div class="clearx"></div>
+</div>
+<div id="searchwrap">
+<div id="xmenu" class="">
+<span><a class="xmenulink" href="datensch.html" target="_self">Datenschutz</a></span>
+<span><a class="xmenulink" href="nutzungsbed.html" target="_self">Nutzungsbedingungen</a></span>
+<span><a id="loginButton" class="xmenulink" onClick="loginChange()" target="_self">Login</a></span>
+</div>
+</div>
+<div class="clearx"></div>
+</div>
+<div id="framebox">
+<div id="navbar">
+<ul class="zpmarkactive default mainmenu touchhovermenu clickhovermenu out" data-breakpointmobilemenu="768"><li class="zpnodefaults dropdown"><a href="index.html" data-isredirected="false">Startseite</a></li><li class="zpnodefaults dropdown"><a href="vorwort.html" data-isredirected="false">Vorwort</a></li><li class="zpnodefaults haschilds dropdown"><a href="leistungskurse.html" data-isredirected="false">Leistungskurse und Steckbriefe</a><ul class="dropdown-menu"><li class="zpnodefaults dropdown"><a href="biologie-1-wosch.html" data-isredirected="false">Biologie 1 (Wosch)</a></li><li class="zpnodefaults dropdown"><a href="biologie-2-klemm.html" data-isredirected="false">Biologie 2 (Klemm)</a></li><li class="zpnodefaults dropdown"><a href="chemie-blechschmidt.html" data-isredirected="false">Chemie (Blechschmidt)</a></li><li class="zpnodefaults dropdown"><a href="englisch-1-john.html" data-isredirected="false">Englisch 1 (John)</a></li><li class="zpnodefaults dropdown"><a href="englisch-2-herrmann.html" data-isredirected="false">Englisch 2 (Herrmann)</a></li><li class="zpnodefaults dropdown"><a href="englisch-3-urban.html" data-isredirected="false">Englisch 3 (Urban)</a></li><li class="zpnodefaults dropdown"><a href="geschichte-herzog.html" data-isredirected="false">Geschichte (Herzog)</a></li><li class="zpnodefaults dropdown"><a href="physik-angermann.html" data-isredirected="false">Physik (Angermann)</a></li><li class="zpnodefaults dropdown"><a href="schuelersuche.html" data-isredirected="false">Schülersuche</a></li></ul></li><li class="zpnodefaults haschilds dropdown"><a href="rankings.html" data-isredirected="false">Rankings</a><ul class="dropdown-menu"><li class="zpnodefaults dropdown"><a href="schuelerrankings.html" data-isredirected="false">Schülerrankings</a></li><li class="zpnodefaults dropdown"><a href="lehrerrankings.html" data-isredirected="false">Lehrerrankings</a></li></ul></li><li class="zpnodefaults haschilds dropdown"><a href="weitere.html" data-isredirected="false">Weitere</a><ul class="dropdown-menu"><li class="zpnodefaults dropdown"><a href="our-ib-experience.html" data-isredirected="false">Our IB Experience</a></li><li class="zpnodefaults dropdown"><a class="active" href="lehrerzitate.html" data-isredirected="false">Lehrerzitate</a></li><li class="zpnodefaults dropdown"><a href="mottowoche.html" data-isredirected="false">Mottowoche</a></li><li class="zpnodefaults dropdown"><a href="wir-haben-die-lehrer-gefragt.html" data-isredirected="false">Wir haben die Lehrer gefragt</a></li><li class="zpnodefaults dropdown"><a href="danke.html" data-isredirected="false">Danke</a></li></ul></li></ul>
+
+</div>
+<img loading="lazy" src="" id="main_img" width="1024" height="250" alt="">
+<div id="webbox">
+<div id="breadcrumb"> Sie befinden sich hier:&nbsp; <ol class="zpBreadcrumbs zpnodefaults" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li>
+<a href="index.html">Startseite</a>
+<span class="divider">/</span>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="weitere.html"><span itemprop="name">Weitere</span><meta itemprop="position" content="0"></a>
+<span class="divider">/</span>
+</li>
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="lehrerzitate.html" style="pointer-events: none; color: inherit; text-decoration: none; border: 0;"><span itemprop="name">Lehrerzitate</span><meta itemprop="position" content="1"></a>
+</li>
+</ol>
+</div>
+<div id="contentbox0">
+</div>
+<script>ladeText("public/lehrerzitate.txt", "contentbox")</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="bottomfooter">
+<div class="wrapper">
+<div id="footerinfo"> &copy; 2022 Abiarchiv  </div>
+</div>
+</div>
+</div>
+ <script type="text/javascript" src="./assets/js/flexbox.js"></script>
+ </body>
+</html>

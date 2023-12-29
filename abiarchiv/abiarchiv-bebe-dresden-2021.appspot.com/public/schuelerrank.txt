@@ -1,0 +1,492 @@
+<tr>
+<td><strong>Sportler:</strong></td>
+<td><strong>Schwänzer:</strong></td>
+<td><strong>Partymaus:</strong></td>
+</tr>
+<tr>
+<td>1. Konrad</td>
+<td>1.Vladimir</td>
+<td>1. Christian</td>
+</tr>
+<tr>
+<td>2. David, Benito</td>
+<td>2. Franz</td>
+<td>2. Adrian</td>
+</tr>
+<tr>
+<td>3. Noa</td>
+<td>3. Ronan</td>
+<td>3. Markus</td>
+</tr>
+<tr>
+<td><strong>Junkie:</strong></td>
+<td><strong>Zu-spät-kommer:</strong></td>
+<td><strong>Flunkyking:</strong></td>
+</tr>
+<tr>
+<td>1. Franz</td>
+<td>1. Sebastian</td>
+<td>1. Adrian</td>
+</tr>
+<tr>
+<td>2. Philipp W.</td>
+<td>2. Philipp K., Vladimir</td>
+<td>2. Christian, Markus</td>
+</tr>
+<tr>
+<td>3. Christian</td>
+<td>3. Nils</td>
+<td>3. Clemens</td>
+</tr>
+<tr>
+<td><strong>Brotdose XXL:</strong></td>
+<td><strong>Kreativster:</strong></td>
+<td><strong>Entertainer:</strong></td>
+</tr>
+<tr>
+<td>1. Tom B.</td>
+<td>1. Maxim L.</td>
+<td>1. Alaa</td>
+</tr>
+<tr>
+<td>2. Manuel, Marc</td>
+<td>2. Maxim W.</td>
+<td>2. Friedrich</td>
+</tr>
+<tr>
+<td>3. Adrian</td>
+<td>3. Alaa</td>
+<td>3. David</td>
+</tr>
+<tr>
+<td><strong>Bester Style:</strong></td>
+<td><strong>Dat Ass:</strong></td>
+<td><strong>Lehrerliebling:</strong></td>
+</tr>
+<tr>
+<td>1. Maxim L.</td>
+<td>1. Markus</td>
+<td>1. Maxim W.</td>
+</tr>
+<tr>
+<td>2. Noa</td>
+<td>2. Alaa</td>
+<td>2. Friedrich</td>
+</tr>
+<tr>
+<td>3. Kolja, Dandy</td>
+<td>3. Khoa</td>
+<td>3. Willi K., Alaa</td>
+</tr>
+<tr>
+<td><strong>Schläfer:</strong></td>
+<td><strong>Casanova:</strong></td>
+<td><strong>Größte Klappe:</strong></td>
+</tr>
+<tr>
+<td>1. Quoc Ahn</td>
+<td>1. Kolja</td>
+<td>1. Christian</td>
+</tr>
+<tr>
+<td>2. Alaa</td>
+<td>2. Markus, Christian</td>
+<td>2. Clemens</td>
+</tr>
+<tr>
+<td>3. David</td>
+<td>3. Ivan</td>
+<td>3. Alexander L.</td>
+</tr>
+<tr>
+<td><strong>Kaugummikauer:</strong></td>
+<td><strong>Spicker:</strong></td>
+<td><strong>Traumschwiegersohn:</strong></td>
+</tr>
+<tr>
+<td>1. Dandy</td>
+<td>1. Vladimir</td>
+<td>1. Alaa</td>
+</tr>
+<tr>
+<td>2. Wedigo</td>
+<td>2. Lennart</td>
+<td>2. Maxim W.</td>
+</tr>
+<tr>
+<td>3. -</td>
+<td>3. Markus</td>
+<td>3. Konrad</td>
+</tr>
+<tr>
+<td><strong>Teenievater:</strong></td>
+<td><strong>Schnorrer:</strong></td>
+<td><strong>Mit 30 noch bei Mama:</strong></td>
+</tr>
+<tr>
+<td>1. Christian</td>
+<td>1. Christian</td>
+<td>1. Alexander L.</td>
+</tr>
+<tr>
+<td>2. Henning</td>
+<td>2. Willi H.</td>
+<td>2. Philipp K., Willi H.</td>
+</tr>
+<tr>
+<td>3. -</td>
+<td>3. Lukas V., Dandy, Marc</td>
+<td>3. Ivan, Franz</td>
+</tr>
+<tr>
+<td><strong>Sonnenschein:</strong></td>
+<td><strong>Tiefe, stille Wasser:</strong></td>
+<td><strong>Gossip Boy:</strong></td>
+</tr>
+<tr>
+<td>1. Alaa</td>
+<td>1. Philipp K.</td>
+<td>1. Willi H.</td>
+</tr>
+<tr>
+<td>2. David</td>
+<td>2. Fabian</td>
+<td>2. Christian</td>
+</tr>
+<tr>
+<td>3. Maxim L.</td>
+<td>3. Anselm, Jerome</td>
+<td>3. Kolja</td>
+</tr>
+<tr>
+<td><strong>Lehreralptraum:</strong></td>
+<td><strong>Süßestes Pärchen:</strong></td>
+<td><strong>Gefallene Brüder:</strong></td>
+</tr>
+<tr>
+<td>1. Franz</td>
+<td>1. Vivien V. &amp; Konrad</td>
+<td>1. Oskar</td>
+</tr>
+<tr>
+<td>2. Christian</td>
+<td>2. Sophia &amp; Anatoliy</td>
+<td>2. Thorwald</td>
+</tr>
+<tr>
+<td>3. Alexander L.</td>
+<td>3. Anastasia U &amp; Noa, Alina S. &amp; Henning</td>
+<td>3. Tom F., Richard K., Julius M.</td>
+</tr>
+<tr>
+<td><strong>Ansteckendste Lache:</strong></td>
+<td><strong>Alleskönner:</strong></td>
+<td><strong>Öko:</strong></td>
+</tr>
+<tr>
+<td>1. Jannis</td>
+<td>1. Maxim W.</td>
+<td>1. Paul M.</td>
+</tr>
+<tr>
+<td>2. Maxim L.</td>
+<td>2. Finn</td>
+<td>2. Marcel</td>
+</tr>
+<tr>
+<td>3. Lukas V.</td>
+<td>3.Matteo, David, Benito, Clemens</td>
+<td>3. Maxim L.</td>
+</tr>
+<tr>
+<td><strong>Jogginghose 24/7:</strong></td>
+<td><strong>Säufer:</strong></td>
+<td><strong>Philosoph:</strong></td>
+</tr>
+<tr>
+<td>1. Alexander L.</td>
+<td>1. Christian</td>
+<td>1. Maxim L.</td>
+</tr>
+<tr>
+<td>2. Adrian</td>
+<td>2. Adrian, Anselm</td>
+<td>2. Marcel</td>
+</tr>
+<tr>
+<td>3. Henning</td>
+<td>3. Markus</td>
+<td>3. Gabriel</td>
+</tr>
+<tr>
+<td><strong>Nobelpreisträger:</strong></td>
+<td><strong>Living Meme:</strong></td>
+<td><strong>Influencer:</strong></td>
+</tr>
+<tr>
+<td>1. Maxim W.</td>
+<td>1. Lukas V., Maximilian</td>
+<td>1. Alaa</td>
+</tr>
+<tr>
+<td>2. Matteo</td>
+<td>2. Christian</td>
+<td>2. Kolja</td>
+</tr>
+<tr>
+<td>3. Maximilian</td>
+<td>3. Quoc Ahn</td>
+<td>3. Noa</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class="zpRow standard " data-row-id="129">
+<div class="zpColumn odd zpColumnWidth1 c12 first last" style="" data-column-id="144">
+<div class="zpColumnItem">
+<div id="a1433" data-article-id="1433" data-zpleid="1433" class="articlearea zpwTabellarische_Daten">
+<h2 data-zpfieldname="headline">Weiblich</h2>
+<table id="1433" class="zptabledata sortable clientside">
+<tr>
+<td><strong>Sportlerin:</strong></td>
+<td><strong>Schwänzerin:</strong></td>
+<td><strong>Partymaus:</strong></td>
+</tr>
+<tr>
+<td>1. Anna R.</td>
+<td>1. Tanja</td>
+<td>1. Anastasia U.</td>
+</tr>
+<tr>
+<td>2. Annalena</td>
+<td>2. Soumaya</td>
+<td>2. Ellen</td>
+</tr>
+<tr>
+<td>3. Emma K.</td>
+<td>3. Emily L.</td>
+<td>3. Emma K.</td>
+</tr>
+<tr>
+<td><strong>Junkie:</strong></td>
+<td><strong>Zu-spät-kommerin:</strong></td>
+<td><strong>Flunkyqueen:</strong></td>
+</tr>
+<tr>
+<td>1. Rebekka</td>
+<td>1. Anastasia U.</td>
+<td>1. Lucy</td>
+</tr>
+<tr>
+<td>2. Melanie</td>
+<td>2. Tanja</td>
+<td>2. Anastasia U.</td>
+</tr>
+<tr>
+<td>3. Meret, Soumaya</td>
+<td>3. Julia Z</td>
+<td>3. Emma K.</td>
+</tr>
+<tr>
+<td><strong>Brotdose XXL:</strong></td>
+<td><strong>Kreativste:</strong></td>
+<td><strong>Entertainerin:</strong></td>
+</tr>
+<tr>
+<td>1. Emily L.</td>
+<td>1. Johanna</td>
+<td>1. Esther S.</td>
+</tr>
+<tr>
+<td>2. Emma K.</td>
+<td>2. Nora</td>
+<td>2. Anastasia U., Muzaina</td>
+</tr>
+<tr>
+<td>3. Meret, Anastasia U, Damaris</td>
+<td>3. Helen</td>
+<td>3. Anastasia S.</td>
+</tr>
+<tr>
+<td><strong>Bester Style:</strong></td>
+<td><strong>Dat Ass:</strong></td>
+<td><strong>Lehrerliebling:</strong></td>
+</tr>
+<tr>
+<td>1. Esther S.</td>
+<td>1. Rebekka, Anastasia M.</td>
+<td>1. Melina</td>
+</tr>
+<tr>
+<td>2. Rebekka</td>
+<td>2. Ellen, Anastasia S.</td>
+<td>2. Vivi V.</td>
+</tr>
+<tr>
+<td>3. Darya, Alina G.</td>
+<td>3. Anna R., Anastasia U.</td>
+<td>3. Lucy, Anja</td>
+</tr>
+<tr>
+<td><strong>Schläferin:</strong></td>
+<td><strong>Casanova:</strong></td>
+<td><strong>Größte Klappe:</strong></td>
+</tr>
+<tr>
+<td>1. Alina G.</td>
+<td>1. Esther S.</td>
+<td>1. Helen</td>
+</tr>
+<tr>
+<td>2. Emily L.</td>
+<td>2. Anja</td>
+<td>2. Emily L.</td>
+</tr>
+<tr>
+<td>3. -</td>
+<td>3. Zahra</td>
+<td>3. Melina</td>
+</tr>
+<tr>
+<td><strong>Kaugummikauerin:</strong></td>
+<td><strong>Spickerin:</strong></td>
+<td><strong>Traumschwiegertochter:</strong></td>
+</tr>
+<tr>
+<td>1. Annlena</td>
+<td>1. Helen</td>
+<td>1. Isabell</td>
+</tr>
+<tr>
+<td>2. Emma K.</td>
+<td>2. Carla</td>
+<td>2. Valerie</td>
+</tr>
+<tr>
+<td>3. Fé</td>
+<td>3. Soumaya</td>
+<td>3. Emma K.</td>
+</tr>
+<tr>
+<td><strong>Teeniemutter:</strong></td>
+<td><strong>Schnorrerin:</strong></td>
+<td><strong>Mit 30 noch bei Mama:</strong></td>
+</tr>
+<tr>
+<td>1. Anja</td>
+<td>1. Darya, Tanja</td>
+<td>1. Emily L.</td>
+</tr>
+<tr>
+<td>2. Anastasia U.</td>
+<td>2. Lucy, Johanna</td>
+<td>2. Adriana, Tanja</td>
+</tr>
+<tr>
+<td>3. Anastasia M.</td>
+<td>3. Soumaya</td>
+<td>3. -</td>
+</tr>
+<tr>
+<td><strong>Sonnenschein:</strong></td>
+<td><strong>Tiefe, stille Wasser:</strong></td>
+<td><strong>Gossip Girl:</strong></td>
+</tr>
+<tr>
+<td>1. Henriette</td>
+<td>1. Lilly</td>
+<td>1. Helen</td>
+</tr>
+<tr>
+<td>2. Lucy</td>
+<td>2. Elisa</td>
+<td>2. Anastasia U.</td>
+</tr>
+<tr>
+<td>3. Anastasia U.</td>
+<td>3. Anja, Adriana</td>
+<td>3. Melina</td>
+</tr>
+<tr>
+<td><strong>Lehreralptraum:</strong></td>
+<td><strong>Süßestes Pärchen:</strong></td>
+<td><strong>Gefallene Schwestern:</strong></td>
+</tr>
+<tr>
+<td>1. Tanja</td>
+<td>1. Vivien V. &amp; Konrad</td>
+<td>1. Antonia</td>
+</tr>
+<tr>
+<td>2. -</td>
+<td>2. Sophia &amp; Anatoliy</td>
+<td>2. Vannie</td>
+</tr>
+<tr>
+<td>3. -</td>
+<td>3. Anastasia U. &amp; Noa, Alina S. &amp; Henning</td>
+<td>3. -</td>
+</tr>
+<tr>
+<td><strong>Ansteckendste Lache:</strong></td>
+<td><strong>Alleskönnerin:</strong></td>
+<td><strong>Öko:</strong></td>
+</tr>
+<tr>
+<td>1. Anastasia U.</td>
+<td>1. Ellen</td>
+<td>1. Emma K.</td>
+</tr>
+<tr>
+<td>2. Ellen</td>
+<td>2. Jasmin</td>
+<td>2. Annalena</td>
+</tr>
+<tr>
+<td>3. Nicole</td>
+<td>3. Emma K., Nora, Amelie</td>
+<td>3. Henriette</td>
+</tr>
+<tr>
+<td><strong>Jogginghose 24/7:</strong></td>
+<td><strong>Säuferin:</strong></td>
+<td><strong>Philosophin:</strong></td>
+</tr>
+<tr>
+<td>1. Anastasia U.</td>
+<td>1. Ellen</td>
+<td>1. Annalena, Emily L., Helen</td>
+</tr>
+<tr>
+<td>2. Soumaya</td>
+<td>2. Anastasia</td>
+<td>2. -</td>
+</tr>
+<tr>
+<td>3. Esther S.</td>
+<td>3. Zahra</td>
+<td>3. -</td>
+</tr>
+<tr>
+<td><strong>Nobelpreisträgerin:</strong></td>
+<td><strong>Living Meme:</strong></td>
+<td><strong>Influencerin:</strong></td>
+</tr>
+<tr>
+<td>1. Jasmin</td>
+<td>1. Ellen</td>
+<td>1. Darya</td>
+</tr>
+<tr>
+<td>2. Amelie</td>
+<td>2. Anastasia U.</td>
+<td>2. Esther S.</td>
+</tr>
+<tr>
+<td>3. Lilly</td>
+<td>3. Esther S.</td>
+<td>3. Helen</td>
+</tr>

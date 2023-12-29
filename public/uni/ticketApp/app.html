@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" class="no-js responsivelayout" lang="de" data-zpdebug="false" data-ptr="" data-pagename="App">
+<head>
+<title>App</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="preload" href="https://abiarchiv-bebe-dresden.de/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin="">
+<link class="zpfaviconmeta" rel="manifest" href="https://abiarchiv-bebe-dresden.de/site.webmanifest">
+<meta class="zpfaviconmeta" name="msapplication-config" content="https://abiarchiv-bebe-dresden.de/browserconfig.xml">
+<meta class="zpfaviconmeta" name="msapplication-TileColor" content="#ffffff">
+<meta class="zpfaviconmeta" name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://abiarchiv-bebe-dresden.de/assets/bundle.css?v=637854083792202566">
+<script defer src="../../../firebase/8.6.5/firebase-app.js"></script>
+<script defer src="../../../firebase/8.6.5/firebase-auth.js"></script>
+<script defer src="../../../firebase/8.6.5/firebase-database.js"></script>
+<script defer src="../../../firebase/8.6.5/firebase-storage.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+<script defer src="../../../firebase/init.js"></script>
+
+<style>
+tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+table {
+  background-color: #f0f0f0;
+}
+
+.form__field {
+  font-family: inherit;
+  width: 100%;
+  border: 0;
+  border-bottom: 2px solid #9b9b9b;
+  outline: 0;
+  font-size: 1.3rem;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+body,
+#line,
+#searchbutton,
+#framebox,
+#navbar,
+.notouch ul.mainmenu>li>a:hover,
+ul.mainmenu>li.active:not(.open)>a,
+#contentbox a.button,
+input.button,
+.news h2,
+#afterfooter,
+#afterfooter .footerline {
+    background-image: none !important;
+}
+h1 {
+    text-transform: uppercase;
+}
+#navbar,
+#framebox,
+.newsbox h2,
+.newstext {
+    border-radius: 0;
+    box-shadow: none;
+}
+#xmenu a,
+#xmenuright a {
+    font-weight: normal;
+    text-transform: none;
+}
+#searchfield,
+#searchbutton {
+    font-weight: normal;
+    text-transform: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+ul.mainmenu li a {
+    font-weight: normal;
+}
+a#mobilenavtoggle {
+    font-size: 1.3em;
+    border-radius: 0;
+    font-weight: normal;
+    text-transform: none;
+}
+.flex-caption h1, .flex-caption h2, .flex-caption h3 {
+    font-weight: normal;
+}
+#webbox, #webboxplus {
+    padding-bottom: 60px;
+}
+#contentbox a.button,
+a.button,
+#contentbox a.button span,
+a.button span,
+input.button {
+    border-radius: 0;
+    box-shadow: none;
+}
+.footerline div.zpRow div.zpColumn div.zpColumnItem {
+    padding: 0 30px 30px;
+}
+#footerinfo {
+    padding: 0 30px;
+}
+.nodisplay {
+  display: none;
+}
+</style> 
+<script src="https://abiarchiv-bebe-dresden.de/assets/bundle.js?v=637854083792222565"></script>
+<script src="https://abiarchiv-bebe-dresden.de/assets/js/webfont/1.6.28/webfont.js"></script>
+<noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700"></noscript>
+</head>
+<body id="travel-responsive">
+<input class="button" type="button" id="loginButton" onclick="loginChange()" value="Login" />
+<div id="bodybox">
+<p id="top"></p>
+<div id="contentbox">
+<div id="content" style="padding-right: 20px; padding-left: 20px;">
+<div id="a1346" data-article-id="1346" data-zpleid="1346" class="articlearea zpwText">
+<h2 style="text-align:left;" data-zpfieldname="headline">Ticketverwaltung</h2>
+<form class="nodisplay" id="createForm">
+<select id="types">
+  <option onclick="header(0)">Typ auswählen</option>
+  <option onclick="header(1);document.getElementById('zustand').selectedIndex = 0;document.getElementById('fortschritt').value = '0';document.getElementById('zugewiesen').selectedIndex = 0;">Konzept</option>
+  <option onclick="header(2)">Scripte</option>
+  <option onclick="header(3)">UI</option>
+</select>
+<input type="text" class="form__field" placeholder="Ticketname" id="tname" required />
+<pre></pre><p>Zustand:</p>
+<select id="zustand" required>
+  <option onclick="document.getElementById('fortschritt').value = '0';document.getElementById('zugewiesen').selectedIndex = 0;">TODO</option>
+  <option onclick="document.getElementById('fortschritt').value = '0'">New</option>
+  <option>In Progress</option>
+  <option onclick="document.getElementById('fortschritt').value = '100'">Resolved</option>
+  <option>On Hold</option>
+</select>
+<pre></pre>
+<p>Zugewiesen an:</p>
+<select id="zugewiesen" required>
+</select>
+<pre></pre>
+<input type="number" class="form__field" placeholder="Fortschritt" id="fortschritt" required min="0" max="100" />
+<textarea cols="100" id="tdetail" class="form__field" rows="10" placeholder="Details"></textarea>
+<p class="nodisplay" id="tkey"></p>
+<pre></pre>
+<input class="button" type="button" value="Speichern" onclick="sendEdit()">
+</form>
+<table>
+<tr>
+<td><input class="button" type="button" id="create" onclick="changeForm();document.getElementById('tkey').innerHTML = '';clearData();" value="Ticket erstellen" /></td>
+<td><input class="button" type="button" onclick="ladeTickets()" value="Neu laden" /></td>
+<td><input class="button" type="button" id="onlyme" onclick="ladeMeine()" value="Nur mir zugewiesene Tickets anzeigen" /></td>
+</tr>
+</table>
+<input type="text" placeholder="Suchbegriff" id="search" />
+<div> 	
+<table id="dataContent" style="width: 100%;">
+<tr>
+<td><strong>Ticketname</strong></td>
+<td><strong>Zustand</strong></td>
+<td><strong>Zugewiesen an</strong></td>
+<td><strong>Fortschritt</strong></td>
+<td></br></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="clearx"></div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="bottomfooter">
+<div class="wrapper">
+<div id="footerinfo"> &copy; 2022 App  </div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="./loader.js"></script>
+</body>
+</html>

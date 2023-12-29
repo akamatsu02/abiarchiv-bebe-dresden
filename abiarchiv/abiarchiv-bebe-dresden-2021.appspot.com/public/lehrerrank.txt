@@ -1,0 +1,100 @@
+<tr>
+<td><strong>Lustigster Lehrer:</strong></td>
+<td><strong>Ehrernmann/ -frau:</strong></td>
+<td><strong>Glänzt mit Abwesenheit:</strong></td>
+</tr>
+<tr>
+<td>1. Herr Kunze, Herr Ferencz</td>
+<td>1. Herr Kunze</td>
+<td>1. Frau Häberlein</td>
+</tr>
+<tr>
+<td>2. Herr Thiele</td>
+<td>2. Herr Ferencz, Herr Blechschmidt</td>
+<td>2. Frau Herrmann</td>
+</tr>
+<tr>
+<td>3. Mrs. Protextor, Herr Blechschmidt</td>
+<td>3. Frau Protextor</td>
+<td>3. Herr Ferencz</td>
+</tr>
+<tr>
+<td><strong>Klausuren nach 2 Monaten zurück:</strong></td>
+<td><strong>15 Punkte unmöglich:</strong></td>
+<td><strong>Model / Style:</strong></td>
+</tr>
+<tr>
+<td>1. Herr Ferencz</td>
+<td>1. Frau Eisbein</td>
+<td>1. Frau Lämmel</td>
+</tr>
+<tr>
+<td>2. Herr Urban, Frau Wiedenbeck</td>
+<td>2. Frau John</td>
+<td>2. Frau Dombrowski, Herr Fiedler</td>
+</tr>
+<tr>
+<td>3. Frau Oschmann</td>
+<td>3. Herr Hennig</td>
+<td>3. Mrs. Protextor</td>
+</tr>
+<tr>
+<td><strong>Schmeißt mit Aufgaben um sich:</strong></td>
+<td><strong>Macht GK zum LK:</strong></td>
+<td><strong>Da lernt man fürs Leben:</strong></td>
+</tr>
+<tr>
+<td>1. Herr Hennig</td>
+<td>1. Frau Klemm</td>
+<td>1. Herr Thiele</td>
+</tr>
+<tr>
+<td>2. Frau Klemm</td>
+<td>2. Frau Paschke</td>
+<td>2. Herr Kunze</td>
+</tr>
+<tr>
+<td>3. Frau John</td>
+<td>3. Herr Hennig</td>
+<td>3. Mrs. Protextor</td>
+</tr>
+<tr>
+<td><strong>Redet über alles außer das Fach:</strong></td>
+<td><strong>Überzieht immer:</strong></td>
+<td><strong>Struggle mit Technik:</strong></td>
+</tr>
+<tr>
+<td>1. Frau Herrmann</td>
+<td>1. Frau John</td>
+<td>1. Frau Neuwald</td>
+</tr>
+<tr>
+<td>2. Frau Wiedenbeck</td>
+<td>2. Herr Hennig</td>
+<td>2. Frau Paschke</td>
+</tr>
+<tr>
+<td>3. Frau Bachmann</td>
+<td>3. Frau Wenzel</td>
+<td>3. Frau Herrmann</td>
+</tr>
+<tr>
+<td><strong>Kreativster Lehrer:</strong></td>
+<td><strong>Engagiertester Lehrer:</strong></td>
+<td><strong>Schlimmstes bzw. kein Tafelbild:</strong></td>
+</tr>
+<tr>
+<td>1. Herr Ferencz</td>
+<td>1. Mrs. Protextor</td>
+<td>1. Herr Thiele</td>
+</tr>
+<tr>
+<td>2. Frau Vetter, Frau Reiz</td>
+<td>2. Herr Kunze, Frau John</td>
+<td>2. Herr Devantier</td>
+</tr>
+<tr>
+<td>3. Frau Hornig</td>
+<td>3. Herr Blechschmidt</td>
+<td>3. Frau Illhardt, Frau Neuwald</td>
+</tr>
